@@ -1,6 +1,6 @@
 mixshopping = ["pen", "ball", 10, "watch",false];
 mixshopping.push("paint");
-console.log(mixshopping);
+console.log(mixshopping[0]);
 console.log(mixshopping);
 
 int = [1,2,3];
