@@ -3,6 +3,7 @@ mixshopping.push("paint");
 console.log(mixshopping[0]);
 console.log(mixshopping[1]);
 console.log(mixshopping[2]);
+console.log(mixshopping[0]);
 console.log(mixshopping);
 
 int = [1,2,3];
