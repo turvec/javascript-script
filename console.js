@@ -1,1 +1,2 @@
-var names="chuwkwjhidjeicjnirhvnikhbnkvnkrbhkn vtrfgtjhtuhjntujmu";
+var firstName ="chuwkwjhidjeicjnirhvnikhbnkvnkrbhkn vtrfgtjhtuhjntujmu";
+console.log(firstName);
